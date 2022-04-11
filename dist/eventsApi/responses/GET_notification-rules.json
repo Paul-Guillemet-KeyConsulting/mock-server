@@ -1,0 +1,74 @@
+{
+    "errors": [],
+    "content": [
+        {
+            "id": 1,
+            "ruleName": "Envoi à l'équipe en cas d'erreur FATAL",
+            "notificationType": "EMAIL",
+            "subject": "Au revoir",
+            "messageBody": "Bonjour,\nCeci est un email de test $prop[lastVersionSent]et tout ça $prop[numberOfActivitiesReceived] activités reçues",
+            "recipients": [
+                "paul-externe.guillemet@edf.fr"
+            ],
+            "conditions": [
+                {
+                    "id": 2,
+                    "criteria": "MIN_SEVERITY",
+                    "value": "ERROR",
+                    "negated": false
+                },
+                {
+                    "id": 3,
+                    "criteria": "TITLE_CONTAINS",
+                    "value": "rapport réussie",
+                    "negated": false
+                },
+                {
+                    "id": 3,
+                    "criteria": "PROVIDER_IN",
+                    "value": "ESPN_MBAAS_FRONTEND",
+                    "negated": false
+                }
+
+            ]
+
+        },
+        {
+            "id": 9,
+            "ruleName": "Envoi à Paul si bug de soumission",
+            "notificationType": "EMAIL",
+            "subject": "Au revoir",
+            "messageBody": "Bonjour,\nCeci est un email de test $prop[lastVersionSent]et tout ça $prop[numberOfActivitiesReceived] activités reçues",
+            "recipients": [
+                "paul-externe.guillemet@edf.fr"
+            ],
+            "conditions": [
+                {
+                    "id": 2,
+                    "criteria": "MIN_SEVERITY",
+                    "value": "FATAL",
+                    "negated": false
+                },
+                {
+                    "id": 3,
+                    "criteria": "TITLE_CONTAINS",
+                    "value": "rapport réussie",
+                    "negated": false
+                },
+                {
+                    "id": 3,
+                    "criteria": "EVENT_NAME_IN",
+                    "value": "EVENT_DB_INIT,RESET_WS_USER_ACTION",
+                    "negated": false
+                },
+                {
+                    "id": 3,
+                    "criteria": "USER_IN",
+                    "value": "PGDF649N,HHJ6790T,REHK534R",
+                    "negated": false
+                }
+
+            ]
+        }
+    ]
+}

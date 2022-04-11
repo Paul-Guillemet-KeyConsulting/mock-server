@@ -1,0 +1,24 @@
+[
+   {  
+      "authorizationId": "IMAGE-SHOOTING-bfe647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "status":"ISSUED",
+      "requestType": "image-shooting",
+      "requestId":"IMAGE-SHOOTING-bfe647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "creationDate":"2022-03-24T23:00:00.000Z",
+      "validityStartDate":"2022-03-24T23:00:00.000Z",
+      "validityEndDate":"2022-03-24T23:00:00.000Z",
+      "expirationDate":"2022-03-24T23:00:00.000Z",
+      "comments": [{"comment":"blablabla"}]
+   },
+   {
+      "authorizationId": "IMAGE-SHOOTING-cd3647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "status":"CLOSED",
+      "requestType": "image-shooting",
+      "requestId":"IMAGE-SHOOTING-bfe647d1-b6e9-a8be-92e7-98805f3cc8dr",
+      "creationDate":"2022-03-24T23:00:00.000Z",
+      "validityStartDate":"2022-03-24T23:00:00.000Z",
+      "validityEndDate":"2022-03-24T23:00:00.000Z",
+      "expirationDate":"2022-03-24T23:00:00.000Z",
+      "comments": [{"comment":"blablabla"}]
+   }
+]

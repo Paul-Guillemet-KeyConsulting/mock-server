@@ -1,0 +1,77 @@
+[
+   {
+      "status":"OPEN",
+      "requestId":"IMAGE-SHOOTING-bfe647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "lastActionDate":"2022-03-24T23:00:00.000Z",
+      "lastActionParticipant":"John Doe",
+      "requestType":"image-shooting",
+      "badgeDate":"2022-03-24T23:00:00.000Z",
+      "incumbent":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "hasPermanentBadge":false,
+      "accompanist":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "imageShootMode":"camera",
+      "motive": "Faire des photos",
+      "zones": "cafet",
+      "equipments": "camera"
+   },
+      {
+      "status":"OPEN",
+      "requestId":"IMAGE-SHOOTING-vgt647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "lastActionDate":"2022-03-24T23:00:00.000Z",
+      "lastActionParticipant":"John Doe",
+      "requestType":"image-shooting",
+      "badgeDate":"2022-03-24T23:00:00.000Z",
+      "incumbent":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "hasPermanentBadge":false,
+      "accompanist":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "motive": "Faire des photos",
+      "imageShootMode":"camera",
+      "zones": "cafet",
+      "equipments": "camera"
+   },
+      {
+      "status":"OPEN",
+      "requestId":"IMAGE-SHOOTING-hde647d1-b6e9-a8be-92e7-98805f3cc8dc",
+      "lastActionDate":"2022-03-24T23:00:00.000Z",
+      "lastActionParticipant":"John Doe",
+      "requestType":"image-shooting",
+      "badgeDate":"2022-03-24T23:00:00.000Z",
+      "incumbent":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "hasPermanentBadge":false,
+      "accompanist":{
+         "firstName":"John",
+         "lastName":"Doe",
+         "function":"1",
+         "company":"1"
+      },
+      "motive": "Faire des photos",
+      "imageShootMode":"camera",
+      "zones": "cafet",
+      "equipments": "camera"
+   }
+]

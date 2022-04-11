@@ -1,0 +1,409 @@
+{
+    "content":
+
+{
+    "results":
+[
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "IT-YZFZqCtFs5yX",
+        "project": "MF",
+        "actionDate": "2022-01-26T20:17:02.719+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "IT-YZFZqCtFs5yX | IT-xIlSRY63uOfE",
+        "project": "MF",
+        "actionDate": "2022-01-26T20:17:02.698+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation de tous les objets d'un utilisateur",
+        "objectType": null,
+        "objectIdentifier": null,
+        "project": "MF",
+        "actionDate": "2022-01-26T20:16:59.572+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation de tous les objets d'un utilisateur",
+        "objectType": null,
+        "objectIdentifier": null,
+        "project": "MF",
+        "actionDate": "2022-01-26T20:16:37.024+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:23.091+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:23.069+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:23.029+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour tous les utilisateurs",
+        "objectType": "Activité",
+        "objectIdentifier": "MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:20.765+01:00",
+        "origin": "Action administrateur",
+        "properties": []
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:19.671+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:19.648+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:19.603+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation de tous les objets d'un utilisateur",
+        "objectType": null,
+        "objectIdentifier": null,
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:17.344+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:16.273+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:16.247+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:16.200+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour tous les utilisateurs",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:13.932+01:00",
+        "origin": "Action administrateur",
+        "properties": []
+    },
+    {
+        "actionType": "Désaffectation pour tous les utilisateurs",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:13.915+01:00",
+        "origin": "Action administrateur",
+        "properties": []
+    },
+    {
+        "actionType": "Désaffectation pour tous les utilisateurs",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:13.881+01:00",
+        "origin": "Action administrateur",
+        "properties": []
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:11.545+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:11.522+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:11.476+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour un utilisateur",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA2-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:09.184+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour un utilisateur",
+        "objectType": "Activité",
+        "objectIdentifier": "PS1-${RANDOM_ID} | MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:09.153+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour un utilisateur",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "PS1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:09.098+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:06.782+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation pour un utilisateur",
+        "objectType": "Activité",
+        "objectIdentifier": "MA1-${RANDOM_ID}",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:30:04.460+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Activité",
+        "objectIdentifier": "IT-RXOJFCnTl945 | IT-ZDtvx3YztqEt",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:29:23.661+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Affectation manuelle",
+        "objectType": "Ordonnance",
+        "objectIdentifier": "IT-RXOJFCnTl945",
+        "project": "MF",
+        "actionDate": "2022-01-26T19:29:23.607+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation de tous les objets d'un utilisateur",
+        "objectType": null,
+        "objectIdentifier": null,
+        "project": "MF",
+        "actionDate": "2022-01-26T19:29:20.530+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    },
+    {
+        "actionType": "Désaffectation de tous les objets d'un utilisateur",
+        "objectType": null,
+        "objectIdentifier": null,
+        "project": "MF",
+        "actionDate": "2022-01-26T19:28:58.274+01:00",
+        "origin": "Action administrateur",
+        "properties": [
+            {
+                "name": "user",
+                "value": "access_token"
+            }
+        ]
+    }
+]
+}
+}
